@@ -1,0 +1,38 @@
+{
+    "kitchen": {
+        "length": 284,
+        "width": 144
+    },
+    "mud room": {
+        "length":132,
+        "width":60
+    },
+    "living room": {
+        "length":"240",
+        "width":"168"
+    },
+    "hallway": {
+        "length":"195",
+        "width":"36"
+    },
+    "master bedroom": {
+        "length":"191",
+        "width":"144"
+    },
+    "master closet 1": {
+        "length":"81",
+        "width":"26"
+    },
+    "master closet 2": {
+        "length":"139",
+        "width":"57"
+    },
+    "office": {
+        "length":"138",
+        "width":"168"
+    },
+    "guest bathroom": {
+        "length":"146",
+        "width":"86"
+    }
+}
