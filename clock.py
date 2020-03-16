@@ -24,4 +24,4 @@ while True:
         minutes = minutes + 1
     if minutes == 60:
         minutes = 0
-        hours = hours = 1
+        hours = hours + 1
